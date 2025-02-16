@@ -59,13 +59,9 @@ Please feel free to contact me if you are interested in my research.
 
 
 # 📖 Educations
-- *2017.09 - present*, Ph.D. Candidate, School of Computer Science, Fudan University.
+- *2017.09 - present*, Ph.D. Candidate, School of Computer Science, Fudan University. Advisor:  Prof. Yangfan Zhou.
 
-Advisor:  Prof. Yangfan Zhou.
-
-- *2013.09 - 2017.06*, Bachelor's Degree (with honor), School of Social Development, East China Normal University.
-  
-GPA: 3.67/4.0 | Ranking: 1/83.
+- *2013.09 - 2017.06*, Bachelor's Degree (with honor), School of Social Development, East China Normal University. GPA: 3.67/4.0 | Ranking: 1/83.
 
 # 💬 Experience
 - *2023-Present* : Accessible Voice Interaction for Older Adults
