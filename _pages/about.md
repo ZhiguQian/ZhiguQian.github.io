@@ -21,9 +21,17 @@ I am a Ph.D. candidate in **Human-Computer Interaction**, School of Computer Sci
 
 My research lies at the intersection of **Human-Computer Interaction (HCI)**, **Computer Supported Collaborative Work(CSCW)**, **Accessible Techonology**, and **Social Computing**, with a particular focus on **AI-enhanced aging technologies** and **inclusive design**. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on developing voice interaction systems for older adults and exploring AI-powered assistive technologies for diverse user groups. My goal is to advance computing technologies that truly serve human needs by **promoting digital equality**, **enhancing accessibility**, and improving quality of life for all users, especially underserved populations.
 
+
+* 📧 [Email](mailto:qianzhigu@foxmail.com)
+* 📚 [Google Scholar](https://scholar.google.com/citations?user=BhYM_xgAAAAJ&hl=zh-CN&oi=ao)
+* <a href="https://orcid.org/0000-0002-7833-9691"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" width="16" height="16"> ORCID</a>
+* 🎓 [ACM Digital Library](https://dl.acm.org/profile/99661201728)
+* 📖 [DBLP](https://dblp.org/pid/374/8809.html)
+
 Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are interested in my research.
 
 <a href="newfiles/英文简历_正式版-1.pdf" class="btn btn--primary">📄 Download CV</a>
+<a href="newfiles/中文简历.pdf" class="btn btn--info">📄 简历下载</a>
 
 
 
