@@ -66,37 +66,49 @@ My research interest includes neural machine translation and computer vision. I 
 GPA: 3.67/4.0 | Ranking: 1/83.
 
 # 💬 Experience
-- *2023-Present* Accessible Voice Interaction for Older Adults
+- *2023-Present* : Accessible Voice Interaction for Older Adults
   
-·Focus: Development of voice interaction systems for older adults' mobile applications 
+  ·Focus: Development of voice interaction systems for older adults' mobile applications 
 
-·Research Content: Intent understanding of older adults' verbal commands；Age-friendly multi-turn dialogue interaction；Multimodal feedback system for older adults
+  ·Research Content: Intent understanding of older adults' verbal commands；Age-friendly multi-turn dialogue interaction；Multimodal feedback system for older adults
 
-·Achievements:
+  ·Achievements:
 
-[1]Silver Award in Shanghai International College Students' Innovation Competition.
+   [1]Silver Award in Shanghai International College Students' Innovation Competition.
 
-[2]One paper accepted by IMWUT/Ubicomp2025.
+   [2]One paper accepted by IMWUT/Ubicomp2025.
 
-[3]Two papers under submission.
+   [3]Two papers under submission.
 
-- *2022-Present* Social Technology Use Among Older Adults
-·Focus : Understanding and supporting older adults' social technology adoption 
-·Research Content: Technology autonomy in social platform usage； Informal learning behaviors on short video platforms；Social support through technology use 
-·Achievements:
-[1]CSCW 2024: Older adults' technology autonomy through Pinxiaoquan 
-[2]CHI 2024: Case study on Chinese older adults technology autonomy in using Douyin
-[3]CSCW 2025: Older adults' Informal learning on Douyin 
+- *2022-Present* : Social Technology Use Among Older Adults
+  
+  ·Focus : Understanding and supporting older adults' social technology adoption
+  
+  ·Research Content: Technology autonomy in social platform usage； Informal learning behaviors on short video platforms；Social support through technology use 
 
-- *2019-2021* Social Shopping Platform Technology
-·Focus: Integration of social networks and e-commerce platforms 
-·Research Content: Social network-based shopping behavior；User engagement in social shopping；Platform feature design and evaluation 
-·Achievements : Published research findings in CSCW 2024 
+  ·Achievements:
+  
+  [1]CSCW 2024: Older adults' technology autonomy through Pinxiaoquan
+  
+  [2]CHI 2024: Case study on Chinese older adults technology autonomy in using Douyin
+  
+  [3]CSCW 2025: Older adults' Informal learning on Douyin 
 
-- *2017-2018* Intergenerational Family Communication Technology
-·Focus: Technology-mediated family communication 
-·Research Content: Intergenerational communication patterns; Privacy and power dynamics in family settings; Design implications for family communication tools 
-·Achievements: Thesis on family power dynamics in WeChat Moments 
+- *2019-2021* : Social Shopping Platform Technology
+  
+  ·Focus: Integration of social networks and e-commerce platforms
+  
+  ·Research Content: Social network-based shopping behavior；User engagement in social shopping；Platform feature design and evaluation
+  
+  ·Achievements : Published research findings in CSCW 2024 
+
+- *2017-2018* : Intergenerational Family Communication Technology
+  
+ ·Focus: Technology-mediated family communication 
+ 
+ ·Research Content: Intergenerational communication patterns; Privacy and power dynamics in family settings; Design implications for family communication tools 
+ 
+ ·Achievements: Thesis on family power dynamics in WeChat Moments 
 
 # 💻 Services
 - Reviewer of CHI(2024) CSCW(2024)
