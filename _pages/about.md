@@ -21,7 +21,8 @@ I am a Ph.D. candidate in Human-Computer Interaction, School of Computer Science
 
 My research lies at the intersection of Human-Computer Interaction (HCI), Computer Supported Collaborative Work(CSCW), Accessible Techonology, and Social Computing, with a particular focus on AI-enhanced aging technologies and inclusive design. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on developing voice interaction systems for older adults and exploring AI-powered assistive technologies for diverse user groups. My goal is to advance computing technologies that truly serve human needs by promoting digital equality, enhancing accessibility, and improving quality of life for all users, especially underserved populations.
 
-Please feel free to contact me if you are interested in my research.
+Please feel free to contact me if you are interested in my research. <a href="newfiles/英文简历_正式版-1.pdf" class="btn btn--primary">📄 Download CV</a>
+
 
 
 # 🔥 News
