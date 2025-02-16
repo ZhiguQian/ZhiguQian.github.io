@@ -40,20 +40,16 @@ Please feel free to contact me if you are interested in my research.
 - *2023.12* Our paper "Overcoming Barriers, Achieving Goals: A Case Study of an Older User's Technology Autonomy" was accepted by The ACM CHI conference on Human Factors in Computing Systems (CHI'24) as a case-study paper.🎉 🎉
 
 # 📝 Publications 
+[1] Zhigu Qian, Jiaojiao Fu, and Yangfan Zhou*.Exploring Cultural and Intergenerational Dynamics in Voice Assistant Design for Chinese Older Adults. CSCW 2025 (CCF-A).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[2] Zhigu Qian, Jiaojiao Fu*, and Yangfan Zhou. Seeking a Sense of Meaning and Companionship in Life: Informal Learning on Douyin Among Chinese Older Adults. IMWUT/Ubicomp2025 (CCF-A).
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[3] Zhigu Qian, Jiaojiao Fu*, and Yangfan Zhou. Gaining Technological Autonomy and Social-emotional Support: A Case Study of How and Why Chinese Older Adults Engage with a Semi-acquaintance Online Community. CSCW2024 (CCF-A, Recognition for Contribution to Diversity and Inclusion Award )
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+[4] Zhigu Qian, Jiaojiao Fu*, and Yangfan Zhou. Overcoming Barriers, Achieving Goals: A Case Study of an Older User's Technology Autonomy. Case study Track（Acceptance rate 24%） in CHI2024 (CCF-A).
 
 # 🎖 Honors and Awards
 - *2024.11* Research on Elderly User Support, DEI Award at ACM 2024 CSCW (Top 4.03%)
