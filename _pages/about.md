@@ -42,7 +42,8 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 - *2023.12* Our paper "Overcoming Barriers, Achieving Goals: A Case Study of an Older User's Technology Autonomy" was accepted by The ACM CHI conference on Human Factors in Computing Systems (CHI'24) as a case-study paper.🎉 🎉
 
 # 📝 Publications 
-- [1] Zhigu Qian, Jiaojiao Fu, and Yangfan Zhou*.Exploring Cultural and Intergenerational Dynamics in Voice Assistant Design for Chinese Older Adults. CSCW 2025 (CCF-A).
+- [1][[PDF](newfiles/imwut_117-5.pdf)] [[DOI](https://doi.org/10.1145/3711062)] **Zhigu Qian**, Jiaojiao Fu, and Yangfan Zhou*. Exploring Cultural and Intergenerational Dynamics in Voice Assistant Design for Chinese Older Adults. CSCW 2025 (CCF-A).
+
 
 
 - [2] Zhigu Qian, Jiaojiao Fu*, and Yangfan Zhou. Seeking a Sense of Meaning and Companionship in Life: Informal Learning on Douyin Among Chinese Older Adults. IMWUT/Ubicomp2025 (CCF-A).
