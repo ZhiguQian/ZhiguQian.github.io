@@ -17,52 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>## About Me
 
-I am a Ph.D. candidate in **Human-Computer Interaction** at the School of Computer Science, Fudan University, advised by Prof. Yangfan Zhou. My background in Sociology (B.A., East China Normal University) uniquely positions me to bridge social science insights with technical innovation.
 
-## Research Interests
+I am a Ph.D. candidate in Human-Computer Interaction, School of Computer Science at Fudan University, advised by Prof. Yangfan Zhou. My background in Sociology (B.A., East China Normal University) uniquely positions me to bridge social science insights with technical innovation.
+My research lies at the intersection of **Human-Computer Interaction (HCI)**, **Computer Supported Collaborative Work(CSCW)**, **Accessible Techonology**, and **Social Computing**, with a particular focus on **AI-enhanced aging technologies** and **inclusive design**. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on developing voice interaction systems for older adults and exploring **AI-powered assistive technologies for diverse user groups**. My goal is to advance computing technologies that truly serve human needs by promoting **digital equality**, **enhancing accessibility**, and improving quality of life for all users, especially underserved populations.
 
-My research lies at the intersection of:
-- **Human-Computer Interaction (HCI)**
-- **Computer Supported Collaborative Work (CSCW)**
-- **Accessible Technology**
-- **Social Computing**
-
-With a particular focus on:
-- **AI-enhanced aging technologies**
-- **Inclusive design**
-
-## Research Approach
-
-My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on:
-- Developing voice interaction systems for older adults
-- Exploring AI-powered assistive technologies for diverse user groups
-
-## Research Vision
-
-My goal is to advance computing technologies that truly serve human needs by:
-- **Promoting digital equality**
-- **Enhancing accessibility**
-- **Improving quality of life** for all users, especially underserved populations
-
-## Connect With Me
-
-<div class="social-links" style="margin-bottom: 20px;">
-📧 <a href="mailto:qianzhigu@foxmail.com">Email</a> | 
-📚 <a href="https://scholar.google.com/citations?user=BhYM_xgAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a> | 
-<a href="https://orcid.org/0000-0002-7833-9691"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" width="16" height="16"> ORCID</a> | 
-🎓 <a href="https://dl.acm.org/profile/99661201728">ACM Digital Library</a> | 
-📖 <a href="https://dblp.org/pid/374/8809.html">DBLP</a>
-</div>
-
-<div style="margin-top: 20px;">
-Please feel free to <a href="mailto:qianzhigu@foxmail.com">contact me</a> if you are interested in my research.
-</div>
-
-<div class="cv-buttons" style="margin-top: 20px;">
+📧 [Email](mailto:qianzhigu@foxmail.com) 📚 [Google Scholar](https://scholar.google.com/citations?user=BhYM_xgAAAAJ&hl=zh-CN&oi=ao) <a href="https://orcid.org/0000-0002-7833-9691"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" width="16" height="16"> ORCID</a> 🎓 [ACM Digital Library](https://dl.acm.org/profile/99661201728) 📖 [DBLP](https://dblp.org/pid/374/8809.html)
+Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are interested in my research.
 <a href="newfiles/英文简历_正式版-1.pdf" class="btn btn--primary">📄 Download CV</a>
 <a href="newfiles/中文简历zhigu.pdf" class="btn btn--info">📄 简历下载</a>
-</div>
-
 
 
 # 🔥 News
