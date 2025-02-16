@@ -29,6 +29,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BhYM_xgAAAAJ&hl=zh-CN&oi=ao"
   email            : "qianzhigu@foxmail.com"
+  dblp             : # e.g., "https://dblp.org/pid/374/8809.html"
+  orcid            : # e.g., "https://orcid.org/0000-0002-7833-9691"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,8 +46,6 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/374/8809.html"
-  orcid            : # e.g., "https://orcid.org/0000-0002-7833-9691"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
