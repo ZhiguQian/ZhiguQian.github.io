@@ -67,11 +67,17 @@ GPA: 3.67/4.0 | Ranking: 1/83.
 
 # 💬 Experience
 - *2023-Present* Accessible Voice Interaction for Older Adults
+  
 ·Focus: Development of voice interaction systems for older adults' mobile applications 
+
 ·Research Content: Intent understanding of older adults' verbal commands；Age-friendly multi-turn dialogue interaction；Multimodal feedback system for older adults
+
 ·Achievements:
+
 [1]Silver Award in Shanghai International College Students' Innovation Competition.
+
 [2]One paper accepted by IMWUT/Ubicomp2025.
+
 [3]Two papers under submission.
 
 - *2022-Present* Social Technology Use Among Older Adults
