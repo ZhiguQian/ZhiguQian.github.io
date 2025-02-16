@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate in Human-Computer Interaction, School of Computer Science at Fudan University, advised by Prof. Yangfan Zhou. My background in Sociology (B.A., East China Normal University) uniquely positions me to bridge social science insights with technical innovation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research lies at the intersection of Human-Computer Interaction (HCI), Computer Supported Collaborative Work(CSCW), Accessible Techonology, and Social Computing, with a particular focus on AI-enhanced aging technologies and inclusive design. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on developing voice interaction systems for older adults and exploring AI-powered assistive technologies for diverse user groups. My goal is to advance computing technologies that truly serve human needs by promoting digital equality, enhancing accessibility, and improving quality of life for all users, especially underserved populations.
+
+Please feel free to contact me if you are interested in my research.
 
 
 # 🔥 News
@@ -61,8 +63,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2017.09 - present*, Ph.D. Candidate, School of Computer Science, Fudan University. Advisor:  Prof. Yangfan Zhou.
+- *2017.09 - present*, Ph.D. Candidate, School of Computer Science, Fudan University.
+
+Advisor:  Prof. Yangfan Zhou.
+
 - *2013.09 - 2017.06*, Bachelor's Degree (with honor), School of Social Development, East China Normal University.
+  
 GPA: 3.67/4.0 | Ranking: 1/83.
 
 # 💬 Experience
@@ -104,11 +110,11 @@ GPA: 3.67/4.0 | Ranking: 1/83.
 
 - *2017-2018* : Intergenerational Family Communication Technology
   
- ·Focus: Technology-mediated family communication 
+  ·Focus: Technology-mediated family communication 
  
- ·Research Content: Intergenerational communication patterns; Privacy and power dynamics in family settings; Design implications for family communication tools 
+  ·Research Content: Intergenerational communication patterns; Privacy and power dynamics in family settings; Design implications for family communication tools 
  
- ·Achievements: Thesis on family power dynamics in WeChat Moments 
+  ·Achievements: Thesis on family power dynamics in WeChat Moments 
 
 # 💻 Services
 - Reviewer of CHI(2024) CSCW(2024)
