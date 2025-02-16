@@ -42,17 +42,16 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 - *2023.12* Our paper "Overcoming Barriers, Achieving Goals: A Case Study of an Older User's Technology Autonomy" was accepted by The ACM CHI conference on Human Factors in Computing Systems (CHI'24) as a case-study paper.🎉 🎉
 
 # 📝 Publications 
-- [1]**Zhigu Qian**, Jiaojiao Fu, and Yangfan Zhou*. Exploring Cultural and Intergenerational Dynamics in Voice Assistant Design for Chinese Older Adults. CSCW 2025 [[PDF](newfiles/imwut_117-5.pdf)] [[DOI](https://doi.org/10.1145/3711062)] (CCF-A). 
+- [1]**Zhigu Qian**, Jiaojiao Fu, and Yangfan Zhou*. Seeking a Sense of Meaning and Companionship in Life: Informal Learning on Douyin Among Chinese Older Adults. CSCW 2025 [[PDF](newfiles/cscw25_fainlly_完成-2.pdf)] [[DOI](https://doi.org/10.1145/3711062)] **(CCF-A)**. 
 
 
-
-- [2] **Zhigu Qian**, Jiaojiao Fu*, and Yangfan Zhou. Seeking a Sense of Meaning and Companionship in Life: Informal Learning on Douyin Among Chinese Older Adults. IMWUT/Ubicomp2025 (CCF-A).
-
-
-- [3] **Zhigu Qian**, Jiaojiao Fu*, and Yangfan Zhou. Gaining Technological Autonomy and Social-emotional Support: A Case Study of How and Why Chinese Older Adults Engage with a Semi-acquaintance Online Community. CSCW2024 (CCF-A, Recognition for Contribution to Diversity and Inclusion Award )
+- [2] **Zhigu Qian**, Jiaojiao Fu*, and Yangfan Zhou. Exploring Cultural and Intergenerational Dynamics in Voice Assistant Design for Chinese Older Adults. IMWUT/Ubicomp2025 [[PDF](newfiles/imwut_117-5.pdf)] [[DOI](https://doi.org/10.1145/3712275)] **(CCF-A)**.
 
 
-- [4] **Zhigu Qian**, Jiaojiao Fu*, and Yangfan Zhou. Overcoming Barriers, Achieving Goals: A Case Study of an Older User's Technology Autonomy. Case study Track（Acceptance rate 24%） in CHI2024 (CCF-A).
+- [3] **Zhigu Qian**, Jiaojiao Fu*, and Yangfan Zhou. Gaining Technological Autonomy and Social-emotional Support: A Case Study of How and Why Chinese Older Adults Engage with a Semi-acquaintance Online Community. CSCW2024 [[PDF](newfiles/CSCW2024_Seniors11.pdf)] [[DOI](https://doi.org/10.1145/3686980)] **(CCF-A, Recognition for Contribution to Diversity and Inclusion Award)**.
+
+
+- [4] **Zhigu Qian**, Jiaojiao Fu*, and Yangfan Zhou. Overcoming Barriers, Achieving Goals: A Case Study of an Older User's Technology Autonomy. Case study Track（Acceptance rate 24%）in CHI 2024 [[PDF](newfiles/CHI_case_study-1.pdf)] [[DOI](https://doi.org/10.1145/3613905.3637150)] **(CCF-A)**.
 
 # 🎖 Honors and Awards
 - *2024.11* Research on Elderly User Support, DEI Award at ACM 2024 CSCW (Top 4.03%)
