@@ -80,7 +80,7 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 
 ## Research Projects
 
-### 2023-Present: Accessible Voice Interaction for Older Adults
+### [1] Accessible Voice Interaction for Older Adults (2023-Present)
 **Focus**: Development of voice interaction systems for older adults' mobile applications
 
 **Research Content**:
@@ -93,7 +93,7 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 - 📝 One paper accepted by **IMWUT/Ubicomp2025** [[PDF](newfiles/imwut_117-5.pdf)]
 - 📋 Two papers under submission
 
-### 2022-Present: Social Technology Use Among Older Adults
+### [2] Social Technology Use Among Older Adults (2022-Present)
 **Focus**: Understanding and supporting older adults' social technology adoption
 
 **Research Content**:
@@ -102,11 +102,11 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 - Social support through technology use
 
 **Publications**:
-- [[PDF](newfiles/CSCW2024_Seniors11.pdf)] CSCW 2024: Older adults' technology adoption in Pinxiaoquan
-- [[PDF](newfiles/CHI_case_study-1.pdf)] CHI 2024: Case study on Chinese older adults technology autonomy in using Douyin
-- [[PDF](newfiles/cscw25_fainlly_完成-2.pdf)] CSCW 2025: Older adults' Informal learning on Douyin
+- CSCW 2024: Older adults' technology adoption in Pinxiaoquan [[PDF](newfiles/CSCW2024_Seniors11.pdf)] 
+- CHI 2024: Case study on Chinese older adults technology autonomy in using Douyin [[PDF](newfiles/CHI_case_study-1.pdf)]
+- CSCW 2025: Older adults' Informal learning on Douyin [[PDF](newfiles/cscw25_fainlly_完成-2.pdf)]
 
-### 2019-2021: Social Shopping Platform Technology
+### [3] Social Shopping Platform Technology (2019-2021)
 **Focus**: Integration of social networks and e-commerce platforms
 
 **Research Content**:
@@ -115,9 +115,9 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 - Platform feature design and evaluation
 
 **Achievements**: 
-- 📝 Published research findings in CSCW 2024
+- 📝 Published research findings in CSCW 2024 [[PDF](newfiles/CHI_case_study-1.pdf)]
 
-### 2017-2018: Intergenerational Family Communication Technology
+### [4] Intergenerational Family Communication Technology (2019-2021)
 **Focus**: Technology-mediated family communication
 
 **Research Content**:
