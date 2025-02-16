@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>## About Me
 
+# 🏠 About Me
 
 I am a Ph.D. candidate in Human-Computer Interaction, School of Computer Science at Fudan University, advised by Prof. Yangfan Zhou. My background in Sociology (B.A., East China Normal University) uniquely positions me to bridge social science insights with technical innovation.
 My research lies at the intersection of **Human-Computer Interaction (HCI)**, **Computer Supported Collaborative Work(CSCW)**, **Accessible Techonology**, and **Social Computing**, with a particular focus on **AI-enhanced aging technologies** and **inclusive design**. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on developing voice interaction systems for older adults and exploring **AI-powered assistive technologies for diverse user groups**. My goal is to advance computing technologies that truly serve human needs by promoting **digital equality**, **enhancing accessibility**, and improving quality of life for all users, especially underserved populations.
