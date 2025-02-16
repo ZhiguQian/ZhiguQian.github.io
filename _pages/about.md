@@ -61,55 +61,72 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 - **2016** **Chinese National Scholarship**, East China Normal University **(Top 1%)**
 
 
-# 📖 Educations
-- **2017.09 - present**, Ph.D. Candidate, School of Computer Science, Fudan University. Advisor:  Prof. Yangfan Zhou.
+# 📖 Education
 
-- **2013.09 - 2017.06**, **Bachelor's Degree (with honor)**, School of Social Development, East China Normal University. GPA: 3.67/4.0 | Ranking: 1/83.
+### Ph.D. Candidate in Computer Science (2017.09 - Present)
+**Fudan University**, Shanghai, China
+- School of Computer Science
+- Advisor: Prof. Yangfan Zhou
+- Research Focus: Human-Computer Interaction, Aging and Technology
 
+### Bachelor's Degree in Social Development (2013.09 - 2017.06)
+**East China Normal University**, Shanghai, China
+- Graduated with Honors
+- GPA: 3.67/4.0 
+- Ranking: 1/83
+- Major Courses: Social Research Methods, Statistics, Psychology
+  
 # 💬 Experience
-- **2023-Present** : **Accessible Voice Interaction for Older Adults**
-  
-  ·Focus: Development of voice interaction systems for older adults' mobile applications 
 
-  ·Research Content: Intent understanding of older adults' verbal commands；Age-friendly multi-turn dialogue interaction；Multimodal feedback system for older adults
+## Research Projects
 
-  ·Achievements:
+### 2023-Present: Accessible Voice Interaction for Older Adults
+**Focus**: Development of voice interaction systems for older adults' mobile applications
 
-   [1]**Silver Award in Shanghai International College Students' Innovation Competition.**
+**Research Content**:
+- Intent understanding of older adults' verbal commands
+- Age-friendly multi-turn dialogue interaction
+- Multimodal feedback system for older adults
 
-   [2]**One paper accepted by IMWUT/Ubicomp2025.**
+**Achievements**:
+- 🏅 **Silver Award in Shanghai International College Students' Innovation Competition**
+- 📝 One paper accepted by **IMWUT/Ubicomp2025** [[PDF](newfiles/imwut_117-5.pdf)]
+- 📋 Two papers under submission
 
-   [3]Two papers under submission.
+### 2022-Present: Social Technology Use Among Older Adults
+**Focus**: Understanding and supporting older adults' social technology adoption
 
-- **2022-Present : Social Technology Use Among Older Adults**
-  
-  ·Focus : Understanding and supporting older adults' social technology adoption
-  
-  ·Research Content: Technology autonomy in social platform usage； Informal learning behaviors on short video platforms；Social support through technology use 
+**Research Content**:
+- Technology autonomy in social platform usage
+- Informal learning behaviors on short video platforms
+- Social support through technology use
 
-  ·Achievements:
-  
-  [1]**CSCW 2024: Older adults' technology autonomy through Pinxiaoquan**
-  
-  [2]**CHI 2024: Case study on Chinese older adults technology autonomy in using Douyin**
-  
-  [3]**CSCW 2025: Older adults' Informal learning on Douyin**
+**Publications**:
+- [[PDF](newfiles/CSCW2024_Seniors11.pdf)] CSCW 2024: Older adults' technology adoption in Pinxiaoquan
+- [[PDF](newfiles/CHI_case_study-1.pdf)] CHI 2024: Case study on Chinese older adults technology autonomy in using Douyin
+- [[PDF](newfiles/cscw25_fainlly_完成-2.pdf)] CSCW 2025: Older adults' Informal learning on Douyin
 
-- **2019-2021 : Social Shopping Platform Technology**
-  
-  ·Focus: Integration of social networks and e-commerce platforms
-  
-  ·Research Content: Social network-based shopping behavior；User engagement in social shopping；Platform feature design and evaluation
-  
-  ·Achievements : **Published research findings in CSCW 2024**
+### 2019-2021: Social Shopping Platform Technology
+**Focus**: Integration of social networks and e-commerce platforms
 
-- **2017-2018 : Intergenerational Family Communication Technology**
-  
-  ·Focus: Technology-mediated family communication 
- 
-  ·Research Content: Intergenerational communication patterns; Privacy and power dynamics in family settings; Design implications for family communication tools 
- 
-  ·Achievements: Thesis on family power dynamics in WeChat Moments 
+**Research Content**:
+- Social network-based shopping behavior
+- User engagement in social shopping
+- Platform feature design and evaluation
+
+**Achievements**: 
+- 📝 Published research findings in CSCW 2024
+
+### 2017-2018: Intergenerational Family Communication Technology
+**Focus**: Technology-mediated family communication
+
+**Research Content**:
+- Intergenerational communication patterns
+- Privacy and power dynamics in family settings
+- Design implications for family communication tools
+
+**Achievements**:
+- 📑 Thesis on family power dynamics in WeChat Moments
 
 # 💻 Services
 - Reviewer of CHI(2024) CSCW(2024)
