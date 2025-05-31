@@ -69,7 +69,7 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 
 # 📖 Education
 
-### Ph.D. Candidate in Computer Science (2017.09 - Present)
+### Ph.D. Candidate in Computer Science (2017.09 - 2025.06)
 **Fudan University**, Shanghai, China
 - School of Computer Science
 - Advisor: Prof. Yangfan Zhou
