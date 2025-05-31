@@ -31,6 +31,9 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 
 
 # 🔥 News
+
+- **2025.06** Successfully obtained **Ph.D. in Computer Science from Fudan University** 🎓🎉
+
 - **2024.12** Our paper **"Exploring Cultural and Intergenerational Dynamics in Voice Assistant Design for Chinese Older Adults“** have been accepted by **IMWUT（Ubicomp）2025**！ 🎉 🎉
   
 - **2024.12**: Our paper **"Informal Learning on Douyin Among Chinese Older Adults“** have been accepted by **CSCW 2025**！ 🎉 🎉
