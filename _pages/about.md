@@ -19,10 +19,10 @@ redirect_from:
 
 # 🏠 About Me
 
-I am a postdoc at [IDVX Lab, Tongji University](https://idvxlab.com/), where I continue to explore the intersection of technology and human needs. I earned my Ph.D. in Human-Computer Interaction from the School of Computer Science at Fudan University, advised by Prof. Yangfan Zhou. My academic journey began with a B.A. in Sociology from East China Normal University, giving me a unique lens to blend social science insights with technical innovation.
+I am a postdoc at [IDVX Lab](https://idvxlab.com/), [Tongji University](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=5874&lang=_en/), where I continue to explore the intersection of technology and human needs. I earned my Ph.D. in Human-Computer Interaction from the School of Computer Science at Fudan University, advised by Prof. Yangfan Zhou. My academic journey began with a B.A. in Sociology from East China Normal University, giving me a unique lens to blend social science insights with technical innovation.
 My research lies at the intersection of **Human-Computer Interaction (HCI)**, **Computer Supported Collaborative Work(CSCW)**, **Accessible Techonology**, and **Social Computing**, with a particular focus on **AI-enhanced aging technologies** and **inclusive design**. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. Currently, I lead projects on developing voice interaction systems for older adults and exploring **AI-powered assistive technologies for diverse user groups**. My goal is to advance computing technologies that truly serve human needs by promoting **digital equality**, **enhancing accessibility**, and improving quality of life for all users, especially underserved populations.
 
-📧 [Email](mailto:qianzhigu@foxmail.com) 📚 [Google Scholar](https://scholar.google.com/citations?user=BhYM_xgAAAAJ&hl=zh-CN&oi=ao) <a href="https://orcid.org/0000-0002-7833-9691"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" width="16" height="16"> ORCID</a> 🎓 [ACM Digital Library](https://dl.acm.org/profile/99661201728) 📖 [DBLP](https://dblp.org/pid/374/8809.html) 👉 [IDVX Lab](https://idvxlab.com/) | [Tongji Profile](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=5874&lang=_en）
+📧 [Email](mailto:qianzhigu@foxmail.com) 📚 [Google Scholar](https://scholar.google.com/citations?user=BhYM_xgAAAAJ&hl=zh-CN&oi=ao) <a href="https://orcid.org/0000-0002-7833-9691"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" width="16" height="16"> ORCID</a> 🎓 [ACM Digital Library](https://dl.acm.org/profile/99661201728) 📖 [DBLP](https://dblp.org/pid/374/8809.html) 
 Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are interested in my research.
 
 <a href="newfiles/英文简历_正式版-1.pdf" class="btn btn--primary">📄 Download CV</a>
@@ -53,7 +53,7 @@ Please feel free to [contact me](mailto:qianzhigu@foxmail.com) if you are intere
 
 # 📝 Publications 
 
-- [1] Chun Kang, **Zhigu Qian**, Zhen Fu, Jiaojiao Fu, and Yangfan Zhou*. COAS2W: A Chinese Older-Adults Spoken-to-Written Transformation Corpus with Context Awareness. **EMNLP Main Conference 2025**  [[PDF](https://aclanthology.org/2025.emnlp-main.903.pdf）] [[URL](https://aclanthology.org/2025.emnlp-main.903/）] **(CCF-B)**.
+- [1] Chun Kang, **Zhigu Qian**, Zhen Fu, Jiaojiao Fu, and Yangfan Zhou*. COAS2W: A Chinese Older-Adults Spoken-to-Written Transformation Corpus with Context Awareness. **EMNLP Main Conference 2025**  [[PDF](https://aclanthology.org/2025.emnlp-main.903.pdf)][[DOI](https://aclanthology.org/2025.emnlp-main.903)] **(CCF-B)**.
 
 - [2] **Zhigu Qian**, Jiaojiao Fu, and Yangfan Zhou*. Seeking a Sense of Meaning and Companionship in Life: Informal Learning on Douyin Among Chinese Older Adults. CSCW 2025 [[PDF](newfiles/cscw25_fainlly_完成-2.pdf)] [[DOI](https://doi.org/10.1145/3711062)] **(CCF-A)**. 
 
